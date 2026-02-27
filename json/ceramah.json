@@ -10,11 +10,11 @@
     "ad_status": true,
     "main_ads": "admob",
     "backup_ads": "none",
-    "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-    "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-    "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-    "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-    "admob_app_open_id": "ca-app-pub-3940256099942544/9257395921",
+    "admob_banner_id": "ca-app-pub-2488021417008378/8159575787",
+    "admob_interstitial_id": "ca-app-pub-2488021417008378/2088991454",
+    "admob_rewarded_id": "ca-app-pub-2488021417008378/7795304198",
+    "admob_native_id": "ca-app-pub-2488021417008378/4047630874",
+    "admob_app_open_id": "ca-app-pub-2488021417008378/3677405298",
     "ad_manager_banner_id": "/6499/example/banner",
     "ad_manager_interstitial_id": "/6499/example/interstitial",
     "ad_manager_rewarded_id": "/6499/example/rewarded",
@@ -1454,6 +1454,7 @@
     }
   ]
 }
+
 
 
 
