@@ -65,7 +65,7 @@
   
   ],
   "songs": [
-  {
+    {
       "id": 1,
       "title": "Hubbuka Fi Qalbi",
       "category": "Arabic Song",
@@ -73,41 +73,10 @@
       "url": "https://soundcloud.com/valz-project/hubbuka-fi-qalbi-ikyy-pahlevii?si=981382a4f47d49309cc58f0412999969&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing?rewarded=true",
       "lyric": ""
     },
-    {
-      "id": 2,
-      "title": "Hukum Renternir Dalam Islam",
-      "category": "KH Anwar Zahid",
-      "image": "https://laksarra.github.io/gambar/ustadz/khanwarzahid.jpg",
-      "url": "https://archive.org/download/KumpulanCeramahKhAnwarZahid/CeramahKh.AnwarZahid-HukumRentennirDalamIslam.mp3?rewarded=true",
-      "lyric": ""
-    },
-    {
-      "id": 3,
-      "title": "Apa Kamu Tahu Alasan Kenapa Kamu Hidup",
-      "category": "Gus Baha",
-      "image": "https://laksarra.github.io/gambar/ustadz/gusbaha.jpg",
-      "url": "https://archive.org/download/ceramah-gus-baha-2/APA%20KAMU%20TAHU%20ALASAN%20KENAPA%20KAMU%20HIDUP.mp3?rewarded=true",
-      "lyric": ""
-    },
-    {
-      "id": 4,
-      "title": "Apa Itu Sabar",
-      "category": "Ustadz Das'ad Latif",
-      "image": "https://laksarra.github.io/gambar/ustadz/ustadzdasadlatif.jpg",
-      "url": "https://archive.org/download/ceramah-ustad-dasad-latif-2/Apa%20Sebenarnya%20Toleransi.mp3?rewarded=true",
-      "lyric": ""
-    },
-    {
-      "id": 5,
-      "title": "Cara Memilih Jodoh",
-      "category": "Ustadz Adi Hidayat",
-      "image": "https://laksarra.github.io/gambar/ustadz/ustadzalihidayat.jpg",
-      "url": "https://archive.org/download/UstadzAdiHidayat2/Ust%20Adi%20Hidayat%20%20-%20Cara%20Memilih%20Jodoh.mp3?rewarded=true",
-      "lyric": ""
-    },
     }
   ]
 }
+
 
 
 
