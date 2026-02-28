@@ -60,7 +60,7 @@
   "categories": [
     {
       "title": "Arabic Song",
-      "image": "https://laksarra.github.io/gambar/ustadz/ramadhan.jpg"
+      "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg"
     },
   
   ],
@@ -69,12 +69,13 @@
       "id": 1,
       "title": "Hubbuka Fi Qalbi",
       "category": "Arabic Song",
-      "image": "https://laksarra.github.io/gambar/ustadz/khzainuddinmz.jpg",
+      "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg",
       "url": "https://soundcloud.com/valz-project/hubbuka-fi-qalbi-ikyy-pahlevii?si=981382a4f47d49309cc58f0412999969&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing?rewarded=true",
       "lyric": ""
     }
   ]
 }
+
 
 
 
