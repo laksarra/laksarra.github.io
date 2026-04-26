@@ -65,22 +65,6 @@
   ],
   "songs": [
     {
-      "id": 1,
-      "title": "Rahent Aleik",
-      "category": "Arabic Song",
-      "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg",
-      "url": "https://archive.org/download/y-2mate.com-nancy-ajram-rahent-aleik-official-audio/y2mate.com%20-%20Nancy%20Ajram%20%20Rahent%20Aleik%20Official%20Audio%20%20%D9%86%D8%A7%D9%86%D8%B3%D9%8A%20%D8%B9%D8%AC%D8%B1%D9%85%20%20%D8%B1%D8%A7%D9%87%D9%86%D8%AA%20%D8%B9%D9%84%D9%8A%D9%83.mp3?rewarded=true",
-      "lyric": "<p>رَهِنْتَ عَلَيْك وَحَبِّتَك<br/>Rahent 'alaik wa habbeitak<br/>(Ku pertaruhkan diriku untukmu dan mencintaimu)<br/><br/>وَكِلْمَة حُب دِی شُوَيَّة<br/>Wa kelmit hobb di suwayya<br/>(Kata kata cinta ini saja tak cukup)<br/><br/>وَكُلِّ النَّاسِ..... قَالُولِي بَلَاش<br/>Wa kullennaas...alouli balaash<br/>(Tetapi semua orang....menyuruhku berhenti)<br/><br/>
-      قُلْتِ دَه رُوْحِي وَعَيْنَيَا<br/>Oulti dah rouhii wa 'aeinayy<br/>(Aku jawab kekasihku ini adalah jiwa dan ragaku)<br/><br/>وَجَالَك قَلْبِ تَخْدَعْنِي<br/>Wa galak albi tekhda'nii<br/>
-      (Tetapi saat hatiku memilihmu kau meninggalkanku)<br/><br/>حَرَام تَعْمَل كَدَه فِيَا<br/>Haram ta'mal kedah feyya<br/>(Tak sepatutnya kau lakukan itu padaku)<br/><br/>عَايِزَه اهْرَب مِن النَّاس وَالدُّنْيَا اَنَا تَعْبَانَه خَلَاص<br/>Ayizahrab minennaas wel dounyaa anaa ta'bana kholaash<br/>(Aku ingin lari dari semua orang dan dunia ini aku sudah lelah)<br/><br/>اَنَا مُش لَاقْيَه اَمَان حَوَلَيَّا غَرِيبَه فِي وَسْطِ النَّاس
-      <br/>Anaa mush laa yah amaan hawalayyaa ghariba fiwstennaas<br/>(Tak kutemukan rasa aman di sekitarku aku bagaikan orang asing di tengah manusia)<br/><br/>اَنَا مُش اَوَل وَاحْدَه تْحَب وَيَخَونْهَا الْاِحْسَاس<br/>Anaa mosh awwel wahdatheb wa  yekhounhal ehsaas<br/>(Aku bukanlah orang pertama yang jatuh cinta tapi dikhianati perasaannya sendiri)<br/><br/>
-      اَنَا مَمْلُكش.... غَيْرِ الْاِحْسَاس<br/>Anaa mamlouksh...gheirel ehsaas<br/>(Yang kumiliki.....hanyalah perasaan)<br/><br/>اَنَا اِللِي فِي اِيدِي مُشْ لَيَا<br/>Anaa ellii fi eidii mush leyyya<br/>(Yang ada di tanganku bukanlah untukku)<br/><br/>مَلِيش فِي الكِذب .....وَالْقَسْوَه<br/>Malish fiiel kidb.... uwel aswa<br/>(Tak ada pada diriku kebohongan.... dan kekejaman)<br/><br/>
-      مَجِيش اَنَا غَيْر بِحَنِيه<br/>Magish anaa gheir bi heniiyah<br/>(Aku datang hanya dengan kasih sayang)<br/><br/>حَبِيْبِي اِنْ كُنْت اَنا ظَلْمَاك<br/>Habiibii en kount anaa zalmaak<br/>(Kekasihku jika memang aku menyakitimu)<br/><br/>وَاجَهْنِي وَبَص فِي عَيْنَيَا<br/>Uwagehnii wa boss fi 'aeinayyi<br/>(Menghadaplah padaku dan tatap mataku)<br/><br/>
-      عَايِزَه اهْرَب مِن النَّاس وَالدُّنْيَا اَنَا تَعْبَانَه خَلَاص<br/>Ayizahrab minennaas wel dounyaa anaa ta'bana kholaash<br/>(Aku ingin lari dari semua orang dan dunia ini aku sudah lelah)<br/><br/>اَنَا مُش لَاقْيَه اَمَان حَوَلَيَّا غَرِيبَه فِي وَسْطِ النَّاس<br/>Anaa mush laa yah amaan hawalayyaa ghariba fiwstennaas<br/>(Tak kutemukan rasa aman di sekitarku aku bagaikan orang asing di tengah manusia)<br/><br/>
-      اَنَا مُش اَوَل وَاحْدَه تْحَب وَيَخَونْهَا الْاِحْسَاس<br/>Anaa mosh awwel wahdatheb wa yekhounhal ehsaas<br/>(Aku bukanlah orang pertama yang jatuh cinta tapi dikhianati perasaannya sendiri)<br/><br/>غَرِيبَه فِي وَسْطِ النَّاس<br/>Ghariba fiwstennaas<br/>(Aku bagaikan orang asing di tengah manusia)<br/><br/>وَيَخَونْهَا الْاِحْسَاس<br/>Wa yekhounhal ehsaas<br/>(Tapi dikhianati perasaannya sendiri)<br/><br/>
-      اَنَا تَعْبَانَه خَلَاص<br/>Anaa ta'bana kholaash<br/>(Aku sudah lelah)<br/><br/>اَنَا مُش اَوَل وَاحْدَه تْحَب وَيَخَونْهَا الْاِحْسَاس<br/>Anaa mosh awwel wahdatheb wa yekhounhal ehsaas<br/>(Aku bukanlah orang pertama yang jatuh cinta tapi dikhianati perasaannya sendiri)</p>"
-    },
-    {
       "id": 2,
       "title": "Btmanna Ansak",
       "category": "Arabic Song",
