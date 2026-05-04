@@ -202,6 +202,62 @@
 	  },
 	  {
       "id": 1,
+      "title": "Wana Maak",
+      "category": "Arabic Song",
+      "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg",
+      "url": "https://archive.org/download/20260414_20260414_1843/%D9%88%D9%8E%D8%A3%D9%86%D9%8E%D8%A7%20%D9%85%D9%8E%D8%B9%D9%8E%D8%A7%D9%83%20%D8%A8%D9%8E%D8%AD%D9%90%D8%B3%D9%90%20%D8%A5%D9%86%D9%8E%D9%83%20%D9%85%D9%90%D9%83%D9%8E%D9%85%D9%90%D9%84%D9%92%D9%86%D9%90%D9%8A.m4a?rewarded=true",
+      "lyric": ""
+	  },
+	  {
+      "id": 1,
+      "title": "3 Daqat",
+      "category": "Arabic Song",
+      "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg",
+      "url": "https://archive.org/download/20260414_20260414_1843/%D9%88%D9%8E%D9%82%D9%92%D8%AA%D9%8F%20%D8%BA%D9%92%D8%B1%D9%8F%D9%88%D9%92%D8%A8%D9%90%20%D8%A7%D9%84%D8%B4%D9%91%D9%8E%D9%85%D9%92%D8%B3%20.m4a?rewarded=true",
+      "lyric": ""
+	  },
+	  {
+      "id": 1,
+      "title": "Amr Diab - Ray'a",
+      "category": "Arabic Song",
+      "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg",
+      "url": "https://archive.org/download/20260414_20260414_1843/%D9%8A%D8%A7%20%D9%86%D8%AC%D9%85%D8%A9%20%D9%85%D8%B3%D9%83%D8%AA%20%D9%81%D9%8A%D9%87%D8%A7.m4a?rewarded=true",
+      "lyric": ""
+	  },
+	  {
+      "id": 1,
+      "title": "Ya Ghayeb",
+      "category": "Arabic Song",
+      "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg",
+      "url": "https://archive.org/download/20260414_20260414_1843/%D9%8A%D9%8E%D8%A7%20%D8%BA%D9%8E%D8%A7%D9%8A%D9%90%D8%A8%D9%92%20%D9%84%D9%90%D9%8A%D9%92%D9%87%20%D9%85%D9%8E%D8%A7%20%D8%AA%D9%90%D8%B3%D8%A3%D9%8E%D9%84.m4a?rewarded=true",
+      "lyric": ""
+	  },
+	  {
+      "id": 1,
+      "title": "La",
+      "category": "Arabic Song",
+      "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg",
+      "url": "https://archive.org/download/20260414_20260414_1843/%D9%8A%D9%8E%D8%A7%D8%AA%D9%82%D9%8F%D9%88%D9%92%D9%84%D9%90%D9%8A%20%27%D8%A5%D9%90%D9%8A%D9%92%D9%87.m4a?rewarded=true",
+      "lyric": ""
+	  },
+	  {
+      "id": 1,
+      "title": "El Watar El Hassas",
+      "category": "Arabic Song",
+      "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg",
+      "url": "https://archive.org/download/20260414_20260414_1843/%D9%8A%D9%8F%D8%B9%D9%8E%D8%A7%D9%85%D9%90%D9%84%D9%92%D9%86%D9%90%D9%8A%20%D8%A8%D8%B7%D9%90%D9%8A%D9%92%D8%A8%D9%8E%D8%A9%20%D9%88%D8%A5%D8%AD%D9%92%D8%B3%D9%8E%D8%A7%D8%B3.m4a?rewarded=true",
+      "lyric": ""
+	  },
+	  {
+      "id": 1,
+      "title": "Albi Ya Mehtas",
+      "category": "Arabic Song",
+      "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg",
+      "url": "https://archive.org/download/20260414_20260414_1843/%D9%8E%D9%84%D9%92%D8%A8%D9%90%D9%8A%20%D9%8A%D8%A7%20%D9%85%D9%8E%D8%AD%D9%92%D8%AA%D8%A7%D8%B3.m4a?rewarded=true",
+      "lyric": ""
+	  },
+	  {
+      "id": 1,
       "title": "Rahent Aleik",
       "category": "Arabic Song",
       "image": "https://laksarra.github.io/gambar/arabic/arabicsong.jpg",
